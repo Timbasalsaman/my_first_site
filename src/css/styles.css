@@ -1,0 +1,96 @@
+
+  *{
+    box-sizing: border-box;/* для установки подефолту всіх обєктів по своїм розмірам*/
+  }
+  .header{
+    margin-top: 80px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 900;
+    
+  }
+  .header span{
+    font-weight: 300;
+    display: block;/* для того щоб верхній надпис
+    виштовхнув нижній вниз*/
+  }
+  body{
+    font-family:  Tahoma, Geneva,  sans-serif;
+    line-height: 1.5; /**/
+    color: #333333;
+    
+   
+  }
+  .header strong{
+    text-transform: uppercase;
+  }
+  .section{
+    padding: 30px 10%;
+    
+  }
+  .main{
+    text-align: center; /*так як в нас елементи форми інлайн-блок то вирівнюємо 
+    такою опцією по центру*/
+    margin-top: 80px;
+  
+  }
+  .video{
+    border: 10px solid #2727d9;
+  }
+  .video, .form{
+  display: inline-block; /*для зручнішого запису тексту*/
+  vertical-align: top;/*обидва елементи вирівняємо по верху*/
+  
+  }
+  .form{
+    border: 5px solid #2727d9;
+    padding: 20px;
+    margin-left: 30px;
+
+  }
+  .form input{
+    font-size: 18px;
+    width: 300px;
+    margin-top: 10px;
+    padding: 17px;/*відступ тексту в інпуті*/
+    border: 1px solid #333;
+    display: block;
+  }
+  .form-header{
+    margin-bottom:20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+  }
+  .btn{
+    background-color:  #2727d9;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    border-style: hidden;
+    width: 300px;
+    height: 60px;
+    display: block; /*робимо обидві кнопки блоками*/
+    margin: 11px auto;/*вирівнюємо автоматично їх зверху-знизу 11 а по краям авто*/
+  }
+  .col{
+    display: inline-block;
+    text-align: center;
+    font-weight: 100;
+   margin: 10px 10px;
+   line-height: 1.2;
+  
+  }
+  .feature-header{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 24px;
+  }
+  .features{
+    margin: 60px auto;
+    display: inline-block;
+    text-align: center;
+  }
+  
