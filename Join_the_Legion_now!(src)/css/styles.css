@@ -90,6 +90,7 @@
   }
   .features{
     margin: 60px auto;
+   padding-left: 260px;
     display: inline-block;
     text-align: center;
   }
