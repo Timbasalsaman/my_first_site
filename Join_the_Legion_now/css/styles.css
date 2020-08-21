@@ -95,7 +95,11 @@
   }
   .features{
     margin: 60px auto;
+<<<<<<< HEAD:Join_the_Legion_now/css/styles.css
     padding-left: 75px;
+=======
+   padding-left: 240px;
+>>>>>>> c08e2e0e92c972681c24c58e7d93bfc31c175b8a:Join_the_Legion_now!(src)/css/styles.css
     display: inline-block;
     text-align: center;
     color:  #ee0a0a;
