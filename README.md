@@ -1,4 +1,5 @@
 # kyrylopyniv.github.io.join_legion_right_now
 
-an_official_legion_recruiting_site_by kyrylo_dotzenko<br>
-this is site dedicated for SPQR 
+
+ - [Preview](https://kyrylo_pyniv.github.io/.join_legion_right_now/)
+ - [Pull Request](https://github.com/kyrylo_pyniv/.join_legion_right_now/pull/1/files)
